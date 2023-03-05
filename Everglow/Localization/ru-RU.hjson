@@ -252,20 +252,20 @@
 			SilverStabbingSword : Серебряная рапира
 			VegetationBayonet : Травинистая рапира
 			TDMT : Катастрофическая молния
-			CrystalSkull : Crystal Skull
+			CrystalSkull : Кристальный череп
 
 			#流萤系列物品
-			GlowBeadGun : "Glowing Railgun"
+			GlowBeadGun : "Светящийся рельсотрон"
 
 			#Glow Wood Furniture
 			
 			#Music Boxes
-			GlowWoodMusicBox : Glow Wood Music Box (The Firefly)
+			GlowWoodMusicBox : Музыкальная шкатулка из светящегося дерева (The Firefly)
 
 
 			#食物系统物品
-			BloodGlucoseMonitor : "Blood Glucose Monitor"
-			OsmoticPressureMonitor : "Osmotic Pressure Monitor"
+			BloodGlucoseMonitor : "Монитор уровня глюкозы в крови"
+			OsmoticPressureMonitor : "Монитор осмотического давления"
 		}
 
 		ItemTooltip:
@@ -349,46 +349,46 @@
 				Призывает маленьких черных мотыльков сражаться за вас
 				Наносит 400% урона ближайшим врагам во время призыва
 				'''
-			PhosphorescenceGun : Shoots out shots and blue scale bullets which deal 36% damage
+			PhosphorescenceGun : Выпускает выстрелы и пули с синей чешуей, которые наносят 36% урона
 			ScaleWingBlade : TODO
 			ShadowWingBow : 
 				'''
-				Hold to charge to  increase damage, capped at +200%, and additionally fires Blue Butterfly Arrows.
-				Needs 1.5s to be fully charged
+				Удерживайте, чтобы зарядить, увеличив урон, максимум на +200%, и дополнительно стреляет синими стрелами-бабочками.
+				Необходиму 1.5с для полной зарядки
 				'''
 			AmbiguousNight : 
 				'''
-				Shoots phantom pebbles
+				Стреляет фантомными камешками
 				{$Mods.Everglow.Common.NoAmmoConsum}
 				'''
 			BlackWoodSlingshot : 
 				'''
-				Shoots little pebbles
+				Стреляет маленькими камешками
 				{$Mods.Everglow.Common.NoAmmoConsum}
 				'''
 			BlueGemSlingshot : 
 				'''
-				Shoots energized gems
+				Стреляет заряженными энергией драгоценными камнями
 				{$Mods.Everglow.Common.NoAmmoConsum}
 				'''
 			CactusSlingShot : 
 				'''
-				Shoots little pebbles
+				Стреляет маленькими камешками
 				{$Mods.Everglow.Common.NoAmmoConsum}
 				'''
 			ColdWoodSlingshot : 
 				'''
-				Shoots little pebbles
+				Стреляет маленькими камешками
 				{$Mods.Everglow.Common.NoAmmoConsum}
 				'''
 			DarkWoodSlingShot : 
 				'''
-				Shoots little pebbles
+				Стреляет маленькими камешками
 				{$Mods.Everglow.Common.NoAmmoConsum}
 				'''
 			GreenGemSlingshot : 
 				'''
-				Shoots energized gems
+				Стреляет заряженными энергией драгоценными камнями
 				{$Mods.Everglow.Common.NoAmmoConsum}
 				'''
 			JellySlingshot : 
